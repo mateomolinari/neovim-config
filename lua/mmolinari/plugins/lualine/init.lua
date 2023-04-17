@@ -36,7 +36,7 @@ return {
   config = function()
     require('lualine').setup(utils.merge({
       options = {
-        theme = 'tokyonight',
+        theme = 'catppuccin',
       },
       sections = {
         lualine_a = { 'mode' },
